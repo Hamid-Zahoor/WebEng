@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"name": "dev-sidecar",
+			"path": "../../../../dev-sidecar"
+		}
+	],
+	"settings": {}
+}
