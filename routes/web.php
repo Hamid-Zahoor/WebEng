@@ -152,9 +152,9 @@ Route::get('joinsCntlr',[EmployeeController::class,'showJoinData']);
 
 
 //FARNER PAGE
-use App\Http\Controllers\FarmerController; 
+use App\Http\Controllers\ObseleteFarmerController; 
 Route::view ('farmer','addfarmer');
-Route::post ('farmer', [FarmerController::class,'addData']);
+Route::post ('farmer', [ObseleteFarmerController::class,'addData']);
 
 //-----------------------------------------------------------------------
 //-----------------------------------------------------------------------
