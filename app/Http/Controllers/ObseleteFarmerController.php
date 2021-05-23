@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Models\farmer;
+use App\Models\obseletefarmer;
 
 class ObseleteFarmerController extends Controller
 {
