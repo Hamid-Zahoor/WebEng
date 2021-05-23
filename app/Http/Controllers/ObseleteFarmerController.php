@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Models\farmer;
 
-class FarmerController extends Controller
+class ObseleteFarmerController extends Controller
 {
     //
     function addData(Request $req)
